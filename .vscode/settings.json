@@ -1,10 +1,11 @@
 {
     "cSpell.words": [
+        "hstack",
+        "infty",
+        "isin",
         "LGBM",
         "LOKY",
-        "Vectorizer",
-        "hstack",
-        "isin",
-        "tfidf"
+        "tfidf",
+        "Vectorizer"
     ]
 }
