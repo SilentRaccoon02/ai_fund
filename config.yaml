@@ -4,6 +4,9 @@ house_prices:
 house_prices_hw:
   train_dataset: ../../datasets/house_prices_hw/train.csv
   test_dataset: ../../datasets/house_prices_hw/test.csv
+mental_health:
+  train_dataset: ../../datasets/mental_health/train.csv
+  test_dataset: ../../datasets/mental_health/test.csv
 fake_news:
   train_dataset: ../../datasets/fake_news/train.csv
   test_dataset: ../../datasets/fake_news/test.csv
