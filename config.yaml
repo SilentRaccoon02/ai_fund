@@ -1,3 +1,6 @@
 house_pricing:
   train_dataset: ../../datasets/house_prices/train.csv
   test_dataset: ../../datasets/house_prices/test.csv
+fake_news:
+  train_dataset: ../../datasets/fake_news/train.csv
+  test_dataset: ../../datasets/fake_news/test.csv
