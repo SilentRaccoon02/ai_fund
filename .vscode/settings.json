@@ -5,6 +5,7 @@
         "isin",
         "LGBM",
         "LOKY",
+        "spbu",
         "tfidf",
         "Vectorizer",
         "venv"
