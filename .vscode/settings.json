@@ -4,10 +4,13 @@
         "infty",
         "isin",
         "LGBM",
+        "logspace",
         "LOKY",
+        "RMSE",
         "spbu",
         "tfidf",
         "Vectorizer",
-        "venv"
+        "venv",
+        "максимизирует"
     ]
 }
